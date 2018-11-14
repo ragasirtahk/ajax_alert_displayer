@@ -1,0 +1,5 @@
+name: 'AJAX Alert Displayer'
+type: module
+description: 'A module to display AJAX alert.'
+package: Custom
+core: 8.x
