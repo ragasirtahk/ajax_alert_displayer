@@ -31,10 +31,10 @@ class AjaxAlert extends FormBase {
         'callback' => '::alertCallback',
         'event' => 'click',
         'progress' => [
-            'type' => 'throbber',
-            'message' => NULL,
-            ],
-          ],
+          'type' => 'throbber',
+          'message' => NULL,
+        ],
+      ],
     ];
     return $form;
   }
